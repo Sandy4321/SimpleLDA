@@ -4,7 +4,7 @@ AUTHOR: Martin Loncaric
 HOW TO USE:
 -----------
   *  change get_fnames() to find the documents you want to run on
-        ** if these are not plain text files, change read_doc(fname)
+        * if these are not plain text files, change read_doc(fname)
   * /usr/share/dict/words is standard for the location of a Unix system's
         english dictionary file, but if your dictionary has a different location
         or format, you will need to change that global variable
