@@ -12,11 +12,11 @@ HOW TO USE:
 
 ADDITIONAL OPTIONS:
 -------------------
-    * adjust the number of topics and iterations
-    * if you want to ignore additional words or punctuation, change stopwords.py
-    * increase/decrease alpha if you think your typical document has more/fewer
+  *  adjust the number of topics and iterations
+  *  if you want to ignore additional words or punctuation, change stopwords.py
+  *  increase/decrease alpha if you think your typical document has more/fewer
         topics represented
-    * increase/decrease beta if you think your typical topic has more/less
+  *  increase/decrease beta if you think your typical topic has more/less
         diversity in vocabulary
-    * change display_topics and the final portion of get_topics to give return
+  *  change display_topics and the final portion of get_topics to give return
         the topic information as you would like it processed/output# SimpleLDA
